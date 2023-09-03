@@ -51,7 +51,9 @@ Feel free to get in touch with me for any reason, whether it's to clarify a ques
 </br>
 </a>
 
-
+</br>
+</br>
+</br>
  <div align="center">
 <img height="320" width="450" align="center" alt="GIF" src="https://media.giphy.com/media/12K8GGWstl229G/giphy.gif">
 </div>
@@ -61,8 +63,7 @@ Feel free to get in touch with me for any reason, whether it's to clarify a ques
 
 
 
-</br>
-</br>
+
 </br>
 </br>
 </br>
