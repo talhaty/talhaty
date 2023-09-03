@@ -65,8 +65,5 @@ Feel free to get in touch with me for any reason, whether it's to clarify a ques
 
 
 </br>
-</br>
-</br>
-</br>
 
 ---
