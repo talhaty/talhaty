@@ -37,7 +37,7 @@
 <p>
  </br>
 
-<img height="320" width="450" align="right" alt="GIF" src="https://media.giphy.com/media/12K8GGWstl229G/giphy.gif">
+
 
 Feel free to get in touch with me for any reason, whether it's to clarify a question, engage in a casual conversation, or join in for some gaming fun 😉.
 
@@ -52,6 +52,12 @@ Feel free to get in touch with me for any reason, whether it's to clarify a ques
 </a>
 
  </p>
+
+
+ <div align="center">
+  
+<img height="320" width="450" align="right" alt="GIF" src="https://media.giphy.com/media/12K8GGWstl229G/giphy.gif">
+</div>
 
 
 </br>
