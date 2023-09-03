@@ -43,10 +43,10 @@
 Feel free to get in touch with me for any reason, whether it's to clarify a question, engage in a casual conversation, or join in for some gaming fun 😉.
 
 <a href="mailto:talhayounas0348@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/talhaty/talhaty/blob/master/assets/icons/gmail.png" />
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/talhaty/talhaty/blob/main/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/talha-yunus-8169aa182/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/talhaty/talhaty/blob/master/assets/icons/linkedin.png" />
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/talhaty/talhaty/blob/main/assets/icons/linkedin.png" />
 </br>
 </br>
 </br>
