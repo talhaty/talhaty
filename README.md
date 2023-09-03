@@ -14,7 +14,6 @@
 
 ### - I'm a Computer Science Student from Pakistan.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGw0aW1remhxcTU2czJ5NWg1ZjU4b2lyNHlrMGpsZ3lscG9mbnpqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3pTtbLJ7Jd0YM/giphy.gif">
 
 ### - Learning :
 
@@ -38,7 +37,7 @@
 <p>
  </br>
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://media.giphy.com/media/12K8GGWstl229G/giphy.gif">
+<img height="320" width="450" align="right" alt="GIF" src="https://media.giphy.com/media/12K8GGWstl229G/giphy.gif">
 
 Feel free to get in touch with me for any reason, whether it's to clarify a question, engage in a casual conversation, or join in for some gaming fun 😉.
 
