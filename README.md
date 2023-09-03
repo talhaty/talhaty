@@ -51,13 +51,14 @@ Feel free to get in touch with me for any reason, whether it's to clarify a ques
 </br>
 </a>
 
+
+ <div align="center">
+<img height="320" width="450" align="center" alt="GIF" src="https://media.giphy.com/media/12K8GGWstl229G/giphy.gif">
+</div>
+
  </p>
 
 
- <div align="center">
-  
-<img height="320" width="450" align="right" alt="GIF" src="https://media.giphy.com/media/12K8GGWstl229G/giphy.gif">
-</div>
 
 
 </br>
