@@ -40,7 +40,7 @@
 
 <img hight="320" width="450" align="right" alt="GIF" src="https://media.giphy.com/media/12K8GGWstl229G/giphy.gif">
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+Feel free to get in touch with me for any reason, whether it's to clarify a question, engage in a casual conversation, or join in for some gaming fun 😉.
 
 <a href="mailto:talhayounas0348@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/talhaty/talhaty/blob/master/assets/icons/gmail.png" />
