@@ -26,11 +26,16 @@ Feel free to reach out for any reason—whether it's to discuss a project, ask a
 
 <p>
   <a href="mailto:talhayounas0348@gmail.com">
-    <img align="left" alt="Gmail" width="130" height="100" src="https://github.com/talhaty/talhaty/blob/main/assets/icons/gmail.png" />
+     <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/talhaty/talhaty/blob/main/assets/icons/gmail.png" />
   </a>
   <a href="https://www.linkedin.com/in/talha-yunus-8169aa182/">
-    <img align="left" alt="LinkedIn" width="150" height="100" src="https://github.com/talhaty/talhaty/blob/main/assets/icons/linkedin.png" />
+    <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/talhaty/talhaty/blob/main/assets/icons/linkedin.png" /></br></br></br>
   </a>
+  
+  </br>
+  </br>
+  </br>
+
 </p>
 
 </br>
