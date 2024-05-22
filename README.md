@@ -33,9 +33,6 @@ Feel free to reach out for any reason—whether it's to discuss a project, ask a
   </a>
   
   </br>
-  </br>
-  </br>
-
 </p>
 
 </br>
