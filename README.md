@@ -55,7 +55,7 @@ Feel free to get in touch with me for any reason, whether it's to clarify a ques
 </br>
 </br>
  <div align="center">
-![Visitor Count](https://profile-counter.glitch.me/talhaty/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{talhaty}/count.svg)
 </div>
 
  </p>
