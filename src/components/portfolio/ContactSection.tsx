@@ -39,9 +39,7 @@ const ContactSection = () => {
         return;
       }
 
-      await emailjs.sendForm(config.serviceId, config.templateId, formRef.current, {
-        publicKey: config.publicKey,
-      });
+      await emailjs.sendForm(config.serviceId, config.templateId, formRef.current, config.publicKey);
 
       setSuccess(true);
       toast({
@@ -126,9 +124,7 @@ const ContactSection = () => {
                 </div>
 
                 <input type="hidden" name="user_name" value={name} />
-                <input type="hidden" name="from_name" value={name} />
-                <input type="hidden" name="reply_to" value={email} />
-                <input type="hidden" name="from_email" value={email} />
+                <input type="hidden" name="user_email" value={email} />
                 <input type="hidden" name="message" value={message} />
 
                 <Button 
@@ -142,7 +138,7 @@ const ContactSection = () => {
                 {success && (
                   <p role="status" aria-live="polite" className="text-sm mt-2 rounded-md border border-green-500/30 bg-green-500/10 text-green-400 px-3 py-2">Your message has been sent!</p>
                 )}
-                {error && (
+                {error && console.log(error) && (
                   <p role="status" aria-live="polite" className="text-sm mt-2 rounded-md border border-red-500/30 bg-red-500/10 text-red-400 px-3 py-2">Something went wrong. Please try again.</p>
                 )}
               </form>

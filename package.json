@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://talhaty.github.io",
+  "homepage": "https://talhaty.github.io/talhaty",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
