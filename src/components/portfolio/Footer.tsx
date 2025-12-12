@@ -122,7 +122,7 @@ const Footer = () => {
               <div className="w-2 h-2 rounded-full bg-green-500 animate-pulse" />
               <span>Abbottabad, Pakistan</span>
               <span className="text-border">|</span>
-              <span className="font-mono">{time} IST</span>
+              <span className="font-mono">{time} PKT</span>
             </div>
           </div>
 
