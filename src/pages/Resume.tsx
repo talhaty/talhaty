@@ -3,7 +3,8 @@ import { AlertCircle } from "lucide-react";
 
 const ResumeViewer: React.FC = () => {
   const [loadError, setLoadError] = useState(false);
-  const src = `${import.meta.env.BASE_URL}resume.pdf`;
+  const src = `${import.meta.env.BASE_URL}/resume.pdf`;
+  console.log(src)
   return (
     <section className="min-h-screen py-16 px-4">
       <div className="container mx-auto max-w-6xl">
